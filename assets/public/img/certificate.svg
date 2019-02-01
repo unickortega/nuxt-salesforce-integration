@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51 69">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #233752;
+      }
+
+      .cls-1 {
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(112 -405)">
+    <g id="Rectangle_24" data-name="Rectangle 24" class="cls-1" transform="translate(-112 405)">
+      <rect class="cls-3" width="51" height="69"/>
+      <rect class="cls-4" x="1.5" y="1.5" width="48" height="66"/>
+    </g>
+    <g id="Rectangle_27" data-name="Rectangle 27" class="cls-2" transform="translate(-79.906 411.047)">
+      <rect class="cls-3" width="11.906" height="14.906"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="10.906" height="13.906"/>
+    </g>
+    <line id="Line_7" data-name="Line 7" class="cls-1" x2="14" transform="translate(-104.5 417.5)"/>
+    <line id="Line_9" data-name="Line 9" class="cls-1" x2="14" transform="translate(-104.5 425.5)"/>
+    <line id="Line_11" data-name="Line 11" class="cls-1" x2="34" transform="translate(-104.5 433.5)"/>
+    <line id="Line_13" data-name="Line 13" class="cls-1" x2="34" transform="translate(-104.5 441.5)"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-2" transform="translate(-76.185 415.535)">
+      <circle class="cls-3" cx="2.232" cy="2.232" r="2.232"/>
+      <circle class="cls-4" cx="2.232" cy="2.232" r="1.732"/>
+    </g>
+    <path id="Path_3" data-name="Path 3" class="cls-2" d="M-78.492,426.77l2.427-5.029,2.322,5.029" transform="translate(2.022 -1.818)"/>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+.green-button{
+  background-color: $sub-1!important;
+  border-color: #838f8f;
+
+  &:focus, &:active{
+    box-shadow: 0 0 0 0.2rem rgba(38, 159, 154, 0.45);
+    outline: none;
+  }
+}
+
+.btn-loading {
+  position: relative;
+  pointer-events: none;
+  color: transparent !important;
+
+  &:after {
+    animation: spinAround 500ms infinite linear;
+    border: 2px solid #dbdbdb;
+    border-radius: 50%;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    content: "";
+    display: block;
+    height: 1em;
+    width: 1em;
+    position: absolute;
+    left: calc(50% - (1em / 2));
+    top: calc(50% - (1em / 2));
+  }
+}
+
+@keyframes spinAround {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(359deg); }
+}

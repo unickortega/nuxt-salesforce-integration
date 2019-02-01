@@ -2,6 +2,9 @@ const express = require('express')
 const consola = require('consola')
 const { Nuxt, Builder } = require('nuxt')
 const app = express()
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+require(__dirname+'/routes')(app)
 
 // Import and Set Nuxt.js options
 let config = require('../nuxt.config.js')

@@ -34,7 +34,7 @@ export default {
   components: {
     Logo
   },
-  middleware: 'isLoggedIn'
+  middleware: 'authenticated',
 }
 </script>
 

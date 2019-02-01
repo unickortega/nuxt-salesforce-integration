@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.166 57.561">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #233752;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-26 -386)">
+    <g id="Rectangle_23" data-name="Rectangle 23" class="cls-1" transform="translate(26 386)">
+      <rect class="cls-2" width="39" height="53"/>
+      <rect class="cls-3" x="1.5" y="1.5" width="36" height="50"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" class="cls-1" x2="28" transform="translate(31.5 395.5)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-1" x2="28" transform="translate(31.5 402.5)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-1" x2="28" transform="translate(31.5 409.5)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-1" x2="28" transform="translate(31.5 416.5)"/>
+    <line id="Line_5" data-name="Line 5" class="cls-1" x2="28" transform="translate(31.5 423.5)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-1" d="M63.615,391.654h6.051v49.407H33.62v-3.787" transform="translate(0 1)"/>
+  </g>
+</svg>
